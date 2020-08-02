@@ -1,0 +1,12 @@
+body {
+  background: rgb(247, 247, 247);
+  height: 100vh;
+  width: 100vw;
+}
+.container {
+  text-align: center;
+}
+
+.search-label {
+  position: relative;
+}
